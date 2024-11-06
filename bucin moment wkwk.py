@@ -1,4 +1,3 @@
-import random
 import math
 
 q0 = input("dia famous (terkenal) kaga? [terkenal jir / b aja] ")
